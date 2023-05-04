@@ -1,0 +1,154 @@
+#header{
+    display: inline-block;
+    border:3px solid black;
+    width:100%;
+    height: 100px;
+    background-color:grey;
+    opacity: 0.8;
+    background-image: linear-gradient(to right, rgb(63, 60, 60), rgb(154, 148, 148));
+    
+}
+#h1{
+    display: inline-block;
+    color: black;
+    font-size:xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 55px;
+
+
+}
+.icon-small img{
+  display: inline-block;
+  position: absolute;
+  left:1%;
+  top:0;
+  border-radius: 10%;
+  vertical-align: middle;
+  padding-top: 12px;
+
+}
+
+a{
+    padding: 10px;
+    font-size: 20px;
+    background-color: black;
+    opacity:0.9;
+    color: white;
+    border: none;
+    border-radius: 7%;
+    cursor: pointer;
+    box-shadow: 0 0 0 #ccc;
+    transition: box-shadow 300ms, color 300ms;
+  
+}
+a:hover{
+    color:blue;
+    box-shadow: 10px 10px 0 rgb(143, 135, 135);
+
+}
+a:active{
+    color: black;
+}
+nav ul{
+    float: right;
+    margin-right: 30px;
+}
+#header nav ul li{
+    display: inline-block;
+    padding-top: 2px;
+    margin-right:20px;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: url("gym.jpg"), linear-gradient(to right, black, grey);
+    background-size: cover;
+    background-blend-mode: overlay;
+}
+#content1{
+    background-color: black;
+    color: green;
+    border: 3px solid rgb(127, 120, 120);
+    width: 200px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.5;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    border-radius: 5%;
+    float: left;
+    margin-top: 30px;
+    margin-left : 30px;
+}
+#i1 #i2 #i3{
+    padding-top: 2px;
+    margin-left:50px;
+    font-size: medium;
+    float:middle;
+}
+#choose{
+    color:red;
+    font-size: large;
+    margin-top: 20px;
+}
+#content2{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: silver;
+    background-color: black;
+    border: 3px solid rgb(127, 120, 120);
+    width: 300px;
+    height: 200px;
+    opacity: 0.5;
+    margin-left: 600px;
+    margin-top: 30px;
+    border-radius: 5%;
+}
+#subs1{
+    text-align: center;
+    margin-top: 50px;
+}
+#content3{
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#content4{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: silver;
+    background-color: black;
+    border: 3px solid rgb(127, 120, 120);
+    width: 300px;
+    height: 200px;
+    opacity: 0.5;
+    margin-left: 1200px;
+    border-radius: 5%;
+    margin-top: -200px;
+}
+#subs2{
+    margin-top: 50px;
+    text-align: center;
+}
+#subs3{
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#pro{
+    margin-top: -60px;
+}
+#nav1 #nav2 #nav3{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 7%;
+    background-color: black;
+}
+footer{
+    font-size:large;
+    font-family: 'Courier New', Courier, monospace;
+    color:azure;
+    margin-top: 500px;
+}
+  
