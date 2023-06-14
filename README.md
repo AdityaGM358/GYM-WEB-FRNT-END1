@@ -1,7 +1,7 @@
 # GYM-WEB-FRNT-END1
 Welcome to the GYM-WEB-FRNT-END1 repository! This repository contains a front-end design project for a gym subscription website. The website aims to provide a visually appealing and user-friendly interface for users to explore and engage with various gym subscription options.
 
-Description The Gym Subscription Website project focuses on creating an attractive and intuitive user interface for a gym membership platform. Although it is a front-end design project, it offers a solid foundation for building a fully functional website by integrating with a back-end and a database of your choice.
+Description:  The Gym Subscription Website project focuses on creating an attractive and intuitive user interface for a gym membership platform. Although it is a front-end design project, it offers a solid foundation for building a fully functional website by integrating with a back-end and a database of your choice.
 
 The website design is centered around promoting gym membership plans, highlighting their features, and encouraging users to sign up. The user interface is designed to be responsive, ensuring a seamless experience across different devices and screen sizes.
 
@@ -29,4 +29,4 @@ Feel free to explore and customize the Gym Subscription Website project to suit 
 
 GETTING STARTED: To run the program i have used visual studio code. It is necessary to download the live server extension. Very simple to run otherwise.
 
-Contribution Guidelines We welcome contributions from the open-source community to enhance the functionality, performance, and documentation of these projects. If you're interested in contributing, please follow the guidelines outlined in our CONTRIBUTING.md file. We appreciate all types of contributions, from bug reports and feature requests to code improvements and documentation updates.
+Contribution Guidelines:  We welcome contributions from the open-source community to enhance the functionality, performance, and documentation of these projects. If you're interested in contributing, please follow the guidelines outlined in our CONTRIBUTING.md file. We appreciate all types of contributions, from bug reports and feature requests to code improvements and documentation updates.
